@@ -44,5 +44,7 @@ OCR: PaddleOCR
 
 Activate Virtual Environment: source venv/bin/activate
 
+
+This project is being completed in VSCode and pushed to GitHub.
 - January 4th 2026
 - Evan Leonard 
