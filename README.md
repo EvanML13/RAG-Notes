@@ -13,10 +13,10 @@
 2. Turn the Text into Embeddings
 3. Store the Embeddings in a Vector Database  
 4. When a Question is Asked to the System...
-  - Embed the question
-  - Retrieve the most relevant note chunks
-  - Feed those  chunks into the LLM as context
-  - Get a grounded answer
+  i. Embed the question
+  ii. Retrieve the most relevant note chunks
+  iii. Feed those  chunks into the LLM as context
+  iv. Get a grounded answer
 
 iPad Notes/PDFs/Slides  
 ↓  
@@ -38,7 +38,7 @@ Chunking (Small Semantic Pieces)
 ↓  
 LLM Answer (With Citation)  
 
-> git clone HTTPS Repositority URL
+git clone HTTPS Repositority URL
 
 OCR: PaddleOCR
 
