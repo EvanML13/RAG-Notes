@@ -12,11 +12,11 @@
 1. Convert Notes into Text
 2. Turn the Text into Embeddings
 3. Store the Embeddings in a Vector Database  
-4. When a Question is Asked to the System...
-  i. Embed the question
-  ii. Retrieve the most relevant note chunks
-  iii. Feed those  chunks into the LLM as context
-  iv. Get a grounded answer
+4. When a Question is Asked to the System...  
+  i. Embed the question  
+  ii. Retrieve the most relevant note chunks  
+  iii. Feed those  chunks into the LLM as context  
+  iv. Get a grounded answer  
 
 iPad Notes/PDFs/Slides  
 ↓  
